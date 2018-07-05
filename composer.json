@@ -8,7 +8,7 @@
     "enqueue/sqs":"@dev"
   },
   "type": "magento2-module",
-  "version": "0.23.2",
+  "version": "dev-fix225",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
